@@ -250,7 +250,7 @@ def main():
     st.markdown("""
     <div style='text-align: center; color: gray; font-size: 0.8em;'>
         @ Mohamed Bachir SANOU | 
-        <a href='https://github.com/lord97/research-rag-assistant' target='_blank'>GitHub</a>
+        <a href='https://github.com/lord97/research-rag-assistant.git' target='_blank'>GitHub</a>
     </div>
     """, unsafe_allow_html=True)
 

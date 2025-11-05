@@ -126,8 +126,8 @@ VECTOR_DB_PATH=./data/vector_db
 UPLOADS_PATH=./data/uploads
 
 # Model Settings
-EMBEDDING_MODEL=models/embedding-001
-LLM_MODEL=gemini-pro
+EMBEDDING_MODEL=models/gemini-embedding-001
+LLM_MODEL=gemini-2.5-flash
 
 # Text Processing
 CHUNK_SIZE=1000
