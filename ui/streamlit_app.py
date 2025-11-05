@@ -16,7 +16,7 @@ from src.query_engine import RAGQueryEngine
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Research RAG Assistant",
+    page_title="Research Paper Assistant",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded"
