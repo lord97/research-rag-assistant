@@ -51,7 +51,7 @@ def sidebar():
     """
     Creates the sidebar for topic management and file upload.
     """
-    st.sidebar.title("📚 Research RAG Assistant")
+    st.sidebar.title("📚 Research Paper Assistant")
     st.sidebar.markdown("---")
     
     # Section 1: Topic Management
